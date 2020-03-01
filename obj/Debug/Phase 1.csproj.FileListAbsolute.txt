@@ -1,8 +1,0 @@
-C:\Users\root\Desktop\Cours\B2\C#\Labo\Phase 1\bin\Debug\Phase 1.exe.config
-C:\Users\root\Desktop\Cours\B2\C#\Labo\Phase 1\bin\Debug\Phase 1.exe
-C:\Users\root\Desktop\Cours\B2\C#\Labo\Phase 1\bin\Debug\Phase 1.pdb
-C:\Users\root\Desktop\Cours\B2\C#\Labo\Phase 1\obj\Debug\Phase 1.csprojAssemblyReference.cache
-C:\Users\root\Desktop\Cours\B2\C#\Labo\Phase 1\obj\Debug\Phase 1.exe
-C:\Users\root\Desktop\Cours\B2\C#\Labo\Phase 1\obj\Debug\Phase 1.pdb
-C:\Users\root\Desktop\Cours\B2\C#\Labo\Phase 1\bin\Debug\MathUtil.dll
-C:\Users\root\Desktop\Cours\B2\C#\Labo\Phase 1\obj\Debug\Phase 1.csproj.CopyComplete
