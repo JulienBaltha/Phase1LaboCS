@@ -1,0 +1,24 @@
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Release\Project WPF Mock.exe.config
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Release\Project WPF Mock.exe
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Release\Project WPF Mock.pdb
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Release\CartoObj lib.dll
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Release\MathUtil.dll
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Release\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Release\MyPersonalMapData.dll
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Release\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Colorpicker.baml
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Colorpicker.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\MainWindow.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Options.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\App.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Project WPF Mock_MarkupCompile.cache
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Project WPF Mock_MarkupCompile.lref
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\MainWindow.baml
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Options.baml
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Project WPF Mock.g.resources
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Project_WPF_Mock.Properties.Resources.resources
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Projet CS BingMap.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Projet CS BingMap.csproj.CopyComplete
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Project WPF Mock.exe
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Release\Project WPF Mock.pdb

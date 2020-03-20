@@ -1,0 +1,25 @@
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\MainWindow.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\App.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Project WPF Mock_MarkupCompile.cache
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Project WPF Mock_MarkupCompile.lref
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Debug\Project WPF Mock.exe.config
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Debug\Project WPF Mock.exe
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Debug\Project WPF Mock.pdb
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\MainWindow.baml
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Project WPF Mock.g.resources
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Project_WPF_Mock.Properties.Resources.resources
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Project WPF Mock.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Project WPF Mock.csproj.CopyComplete
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Project WPF Mock.exe
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Project WPF Mock.pdb
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Debug\CartoObj lib.dll
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Debug\MathUtil.dll
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\bin\Debug\MyPersonalMapData.dll
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Colorpicker.baml
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Colorpicker.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Project WPF Mock.csprojAssemblyReference.cache
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Options.g.cs
+C:\Users\root\Desktop\Cours\B2\C#\Labo\Project WPF Mock\obj\Debug\Options.baml
